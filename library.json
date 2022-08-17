@@ -1,0 +1,24 @@
+{
+  "name": "Esp-IDF-SX127x",
+  "version": "0.0.1",
+  "description": "LoRa Semtech SX127x Driver",
+  "keywords": "esp32, esp-idf, espressif, SX127x, LoRa",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/uktechbr/espidf-semtech-sx127x.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Carlos Alberto Cipriano Korovsky",
+      "email": "carlos.korovsky@uktech.com.br",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/uktechbr/espidf-semtech-sx127x.git",
+  "dependencies": {  },
+  "frameworks": "espidf",
+  "platforms": "espressif32"
+}
