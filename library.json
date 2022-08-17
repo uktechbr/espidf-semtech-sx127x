@@ -16,9 +16,9 @@
       "maintainer": true
     }
   ],
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/uktechbr/espidf-semtech-sx127x.git",
   "dependencies": {  },
-  "frameworks": "espidf",
-  "platforms": "espressif32"
+  "frameworks": ["espidf"],
+  "platforms": ["espressif32"]
 }
